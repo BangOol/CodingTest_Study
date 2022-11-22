@@ -13,7 +13,7 @@ public class StringCompression {
     public String StringCompressionWithString(String str){
         // str를 toCharArray()를 통해 char 배열로 재생성.
         char[] ch = str.toCharArray();
-        // 문자 개수를 담아놓는 배열과 문자 종류를 담는 배열 생성
+        // 문자 개수를 담아놓는 배열과 문자 종류를 담는 ㅂㅂ배열 생성
         List<StringBuilder> list = new ArrayList<>();
         List<Integer> num = new ArrayList<>();
         
